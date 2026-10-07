@@ -52,7 +52,8 @@ public class TorpedoStore {
   }
 
   public boolean isEmpty(){
-    return this.torpedoCount <= 0;
+    return this.torpedoCount <= 0; //valami
+    
   }
 
   public int getTorpedoCount() {
